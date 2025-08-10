@@ -84,4 +84,4 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
    ```bash
    cd Python-course-Volunteer
 3. **Open in your preferred IDE and start learning 🎯:**
-"The best way to learn coding is by writing code and sharing knowledge." 💡
+   "The best way to learn coding is by writing code and sharing knowledge." 💡
