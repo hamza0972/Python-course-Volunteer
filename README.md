@@ -90,7 +90,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 ## ⭐ Support & Contributions
 
 If you find this course helpful, please **give this repo a star ⭐**.  
-Your support motivates me to create more free and beginner-friendly resources. 🚀  
+Your support motivates me to create more free, beginner-friendly resources 🚀  
 
 👉 Click the star button at the top-right of this page!  
 ---
