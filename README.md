@@ -97,13 +97,13 @@ Your support motivates me to create more free and beginner-friendly resources. ð
 
 ## âœ… Progress Tracker  
 
- Topic | Recording | Code File | Other Material |
-|-------|-----------|-----------|----------------|
-| Introduction to Python | [Watch](link_here) | [intro.py](link_here) | [Slides](link_here) |
-| Variables & Data Types | [Watch](link_here) | [variables.py](link_here) | [Notes](link_here) |
-| Control Flow (if/else, loops) | [Watch](link_here) | [control_flow.py](link_here) | [Examples](link_here) |
-| Functions | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
-| File Handling | [Watch](link_here) | [file_handling.py](link_here) | [Docs](link_here) |
+| # | Topic | Recording | Code File | Other Material |
+|---|-------|-----------|-----------|----------------|
+| 1 | Introduction to Python | [Watch](link_here) | [intro.py](link_here) | [Slides](link_here) |
+| 2 | Variables & Data Types | [Watch](link_here) | [variables.py](link_here) | [Notes](link_here) |
+| 3 | Control Flow (if/else, loops) | [Watch](link_here) | [control_flow.py](link_here) | [Examples](link_here) |
+| 4 | Functions | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
+| 5 | File Handling | [Watch](link_here) | [file_handling.py](link_here) | [Docs](link_here) |
 
 
 
