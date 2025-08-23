@@ -84,7 +84,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
    ```bash
    cd Python-course-Volunteer
 3. **Open in your preferred IDE and start learning 🎯:**
-"The best way to learn coding is by writing code and sharing knowledge." 💡
+   "The best way to learn coding is by writing code and sharing knowledge." 💡
 ---
 
 ## ⭐ Support & Contributions
@@ -93,8 +93,4 @@ If you find this course helpful, please **give this repo a star ⭐**.
 Your support motivates me to create more free and beginner-friendly resources. 🚀  
 
 👉 Click the star button at the top-right of this page!  
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/hamza0972/Python-course-Volunteer?style=social" alt="GitHub Repo stars">
-</p>
 
