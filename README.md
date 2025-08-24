@@ -20,7 +20,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 ### **Week 1 – Introduction & Basics 🐣**
 - 🐍 Introduction to Python & Installing Python  
-- 🖥 Understanding the IDE (VS Code / PyCharm)  
+- 🖥 Understanding the IDE (VS Code / Google Collab)  
 - 🖨 Printing Output & 🖊 Taking Input  
 - 📌 Variables, Constants & Naming Rules  
 - 🔢 Data Types (int, float, str, bool)  
@@ -70,7 +70,7 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 ## 🛠 Tech & Tools ⚙️  
 
 - 🐍 Python 3.x  
-- 📓 Jupyter Notebook / 💻 VS Code / PyCharm  
+- 📓 Jupyter Notebook / 💻 VS Code / 🟠 Google Collab  
 - 🌐 Git & GitHub  
 
 ---
