@@ -1,4 +1,4 @@
-# 📚 Python Course - Volunteer Learning Journey 🚀  
+# 📚 Python Course Learning Journey 🚀  
 
 Welcome! 👋  
 This repository contains all my work, resources, and materials from a volunteer-led **Python Programming Course** 🐍.  
@@ -75,22 +75,14 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 ---
 
-## 🚀 How to Use This Repository 🧭  
+💡 *"The best way to learn coding is by writing code and sharing knowledge."*
 
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/hamza0972/Python-course-Volunteer.git
-2. **Navigate to the folder**:
-   ```bash
-   cd Python-course-Volunteer
-3. **Open in your preferred IDE and start learning 🎯:**
-   "The best way to learn coding is by writing code and sharing knowledge." 💡
 ---
 
 ## ⭐ Support & Contributions
 
 If you find this course helpful, please **give this repo a star ⭐**.  
-Your support motivates me to create more free, beginner-friendly resources 🚀  
+Your support motivates me to create more free beginner-friendly resources 🚀  
 
 👉 Click the star button at the top-right of this page!  
 
@@ -98,7 +90,7 @@ Your support motivates me to create more free, beginner-friendly resources 🚀
 
 ## ✅ Progress Tracker  
 
-| # | Topic | Recording | Code File | Other Material |
+| Session | Topic | Recording | Code File | Other Material |
 |---|-------|-----------|-----------|----------------|
 | 1 | Introduction to Python | [Watch](link_here) | [intro.py](link_here) | [Slides](link_here) |
 | 2 | Variables & Data Types | [Watch](link_here) | [variables.py](link_here) | [Notes](link_here) |
