@@ -92,7 +92,7 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 
 | Session | Topic | Recording | Code File | Other Material |
 |---|-------|-----------|-----------|----------------|
-| 1 | Introduction to Python | [Watch](link_here) | [intro.py](link_here) | [Slides](link_here) |
+| 1 | Introduction to Python | [Watch](link_here) | [intro.py]([link_here](https://colab.research.google.com/drive/1MPbtgl9xnbltjdYiITjWOo3PmcxHR3_a?usp=sharing)) | [Slides](link_here) |
 | 2 | Variables & Data Types | [Watch](link_here) | [variables.py](link_here) | [Notes](link_here) |
 | 3 | Control Flow (if/else, loops) | [Watch](link_here) | [control_flow.py](link_here) | [Examples](link_here) |
 | 4 | Functions | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
