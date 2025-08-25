@@ -93,7 +93,7 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 | Session | Topic | Recording | Code File | Other Material |
 |---|-------|-----------|-----------|----------------|
 | 1 | Introduction to Python | [Watch](https://www.facebook.com/share/v/19ihFsYC8Q/) | [intro.py](https://colab.research.google.com/drive/1MPbtgl9xnbltjdYiITjWOo3PmcxHR3_a?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1KgSDHO5UnUx3xfrkxSSwZwLeykjZzcZX/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) |
-| 2 | Why programing is important? \n,\t and comments | [Watch](https://www.facebook.com/share/v/1E38JjVNDD/) | [print.py](https://colab.research.google.com/drive/1NceFmpN3GovNjZ9P3I196BZnY-UWGH2p?usp=sharing) | [Notes](link_here) |
+| 2 | Why programing is important? \n,\t and comments | [Watch](https://www.facebook.com/share/v/1E38JjVNDD/) | [print.py](https://colab.research.google.com/drive/1NceFmpN3GovNjZ9P3I196BZnY-UWGH2p?usp=sharing) | [Docs](https://docs.google.com/document/d/1XaOBpdKUvV2VxmjluiOVHbrIdcwSglfH/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) [Slides][link] |
 | 3 | Control Flow (if/else, loops) | [Watch](link_here) | [control_flow.py](link_here) | [Examples](link_here) |
 | 4 | Functions | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
 | 5 | File Handling | [Watch](link_here) | [file_handling.py](link_here) | [Docs](link_here) |
