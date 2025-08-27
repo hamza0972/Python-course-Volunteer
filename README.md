@@ -95,7 +95,7 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 | 1 | Introduction to Python | [Watch](https://www.facebook.com/share/v/19ihFsYC8Q/) | [intro.py](https://colab.research.google.com/drive/1MPbtgl9xnbltjdYiITjWOo3PmcxHR3_a?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1KgSDHO5UnUx3xfrkxSSwZwLeykjZzcZX/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) |
 | 2 | Importance of Programing, \n,\t and comments | [Watch](https://www.facebook.com/share/v/1E38JjVNDD/) | [print.py](https://colab.research.google.com/drive/1NceFmpN3GovNjZ9P3I196BZnY-UWGH2p?usp=sharing) | [Docs](https://docs.google.com/document/d/1XaOBpdKUvV2VxmjluiOVHbrIdcwSglfH/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) [Slides](https://docs.google.com/presentation/d/1bqE0sbqUvtfuzhfw_PZ66gfsjYuHHmaa/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) |
 | 3 | Variables, Data types (int, float, complex) | [Watch](https://www.facebook.com/share/v/1Cf1XvejPc/) | [variable.py](https://colab.research.google.com/drive/1bl1x3c1yIuvipzk8KmDEJNPeo3XCeCIL?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1lzCr2emUbMSLD7SLyDcj_HxzE-uhuwii/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) |
-| 4 | Functions | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
+| 4 | Data types | [Watch](link_here) | [functions.py](link_here) | [Cheatsheet](link_here) |
 | 5 | File Handling | [Watch](link_here) | [file_handling.py](link_here) | [Docs](link_here) |
 
 
