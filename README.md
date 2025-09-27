@@ -136,7 +136,7 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 | 16 | Mon, Sep 15, 2025 | List: Builtin functions, Nested List | [Watch](https://www.facebook.com/share/v/1AyqAWpU9T/) | Muhammad Hamza | [List.py](https://colab.research.google.com/drive/1a_jdsC5ZdTX2X71HEH7UP1zMI9B3zDCV?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1fgzvGcfSVxa3jT2o6giwCH9VnGevtN8V/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 17 | Tue, Sep 16, 2025 | Assignment 04 (discussion) List Comprehension, 2D and 3D list | [Watch](https://www.facebook.com/share/v/1FTiaNDgBU/) | Muhammad Hamza | [List.py](https://colab.research.google.com/drive/1vr_IWtt6XgxTF2Y8gsyDoLrT45WNtJGQ?usp=sharing) | [Slides](https://docs.google.com/presentation/d/10sE3cN3khijdoSlzRgqnGifPiKq16_uV/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 18 | Wed, Sep 17, 2025 | List: Practice, Set: Introduction | [Watch](https://www.facebook.com/share/v/14RBJgWEWqg/) | Muhammad Hamza | [Set.py](https://colab.research.google.com/drive/1sxmVINTuJNWB6Js-32ZKJsEsfXg3xVyc?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1p65KNs6tDKcg_LB-Njw8GFrXUhidl3af/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) |
-| 19 | Thur, Sep 18, 2025 | Set: Operations and Practice | [Watch](https://www.facebook.com/share/v/17CpQkWZTc/) | Muhammad Hamza | [Set.py]() | [Slides](https://docs.google.com/presentation/d/1gJVgBsFCIOgBdj048KdSqa0FL6Rz57E6/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
+| 19 | Thur, Sep 18, 2025 | Set: Operations and Practice | [Watch](https://www.facebook.com/share/v/17CpQkWZTc/) | Muhammad Hamza | [Set.py](https://colab.research.google.com/drive/1GBTLf81F0JcP9k0aMbMFU-NaxbstvTmH?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1gJVgBsFCIOgBdj048KdSqa0FL6Rz57E6/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 20 | Fri, Sep 19, 2025 | Bitwise Operators, Tuple: Introduction | [Watch](https://www.facebook.com/share/v/19i28W8GRp/) | Muhammad Hamza | [Tuple.py]() | [Slides](https://docs.google.com/presentation/d/1iGYTTqflPr7L2AXyybztFG64ZwPf1_1_/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 21 | Mon, Sep 22, 2025 | Tuple: built-in functions and Dictionary: Introduction | [Watch](https://www.facebook.com/share/v/1CPxmD6Kuq/) | Muhammad Hamza | [Tuple.py]() | [Slides](https://docs.google.com/presentation/d/17BEn78xEIg1WIVIJocrmudFsnE3QoH8v/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 22 | Tue, Sep 23, 2025 | Dictionary: Iteration and built-in functions | [Watch](https://www.facebook.com/share/v/1FYMAG4R1q/) | Muhammad Hamza | [Dictionary.py]() | [Slides]() |
@@ -151,14 +151,14 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 Here are the practice assignments to strengthen your understanding after each major topic.
 Each assignment contains multiple problems 🧠 with increasing difficulty.
 
-| 📌 Assignment | 📚 Topic                                                      | 🔗 Problems                                                                                                          | ⏰ Deadline | 📂 Solution File |
-| ------------- | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- |
+| 📌 Assignment | 📚 Topic | 🔗 Problems | ⏰ Deadline | 📂 Solution File |
+| ------------- | ------------------ | --------------- | ---------- | ---------------- |
 | 1 | Input/Output, Variables, Data Types, Type Casting & Operators | [Assignment 1](https://docs.google.com/spreadsheets/d/10q6zmjrT4s1PwYCrRiW1EOD8AX1nNK7DRN9cBwPw7Lg/edit?usp=sharing) |       |             |
-| 2 | Control Flow                                                  | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) |        |                      |
-| 3 | Loops                                      | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         |                    |
-| 4 | Strings                                                       | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) |               |                     |
-| 5 | Lists                                                         | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              |                      |
-| 6 | Tuples, Sets, Dictionaries & Functions                        | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                |                     |
+| 2 | Control Flow | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) |        |       |
+| 3 | Loops | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         |             |
+| 4 | Strings | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) |          |     |
+| 5 | Lists | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              |        |
+| 6 | Tuples, Sets, Dictionaries & Functions | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                |                     |
 
 💡 *Tip: Try solving assignments on your own first. Only check the solutions once you’ve given your best shot!*
 
