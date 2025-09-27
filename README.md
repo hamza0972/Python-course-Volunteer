@@ -82,14 +82,14 @@ Each week builds on the previous one with clear concepts, practice, and small pr
 
 ---
 
-💡 By the end of this journey, you’ll be confident in Python basics and ready to explore advanced concepts 🚀
-
 ## 🎯 Goals of This Journey 🏆  
 
 - 🐍 Learn Python from the ground up  
 - 🧠 Build strong problem-solving and logic skills  
 - 📌 Understand the core concepts of programming  
-- 💼 Apply fundamentals to create small projects  
+- 💼 Apply fundamentals to create small projects
+
+💡 By the end of this journey, you’ll be confident in Python basics and ready to explore advanced concepts 🚀 
 
 ---
 
