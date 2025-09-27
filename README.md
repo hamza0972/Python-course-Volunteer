@@ -16,47 +16,73 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
 
 ---
 
-## 📜 4-Week Course Outline 🗓  
+# 📜 Python Course Outline – 5 Weeks 🚀🐍
 
-### **Week 1 – Introduction & Basics 🐣**
-- 🐍 Introduction to Python & Installing Python  
-- 🖥 Understanding the IDE (VS Code / Google Collab)  
-- 🖨 Printing Output & 🖊 Taking Input  
-- 📌 Variables, Constants & Naming Rules  
-- 🔢 Data Types (int, float, str, bool)  
-- ➕➖✖️➗ Basic Operators (+, -, *, /, %, //, **)  
-- 💬 Comments & Code Structure  
+This course is designed for **absolute beginners** to learn Python step by step.
+Each week builds on the previous one with clear concepts, practice, and small projects 🏗.
 
 ---
 
-### **Week 2 – Control Flow 🔄**
-- 🔍 Conditional Statements (`if`, `elif`, `else`)  
-- ⚖️ Comparison & Logical Operators  
-- 📂 Nested Conditions  
-- 🔄 Loops: `for` & `while`  
-- 🛑 `break`, 🔄 `continue`, 🕳 `pass`  
-- 🏗 Loop Patterns & Number Printing  
+## **Week 1 – Introduction & Basics 🐣**
+
+* 🐍 Introduction to Python & Installation
+* 📌 Importance of Programming
+* 💻 IDE Setup (VS Code / Google Colab)
+* 🖨 Printing Output & ✍ Taking Input
+* ✨ Escape Sequences: `\n`, `\t`, and Comments
+* 📦 Variables, Constants & Naming Rules
+* 🔢 Data Types: `int`, `float`, `str`, `bool` + Type Casting
+* ➕ Operators (Arithmetic, Relational, Logical)
+* 📝 Formatted Strings
 
 ---
 
-### **Week 3 – Data Structures & Strings 📚**
-- 📦 Lists, 📜 Tuples, 🗂 Sets, 📖 Dictionaries  
-- ➕➖ Adding, Removing, Updating Elements  
-- 🔁 Iterating Over Data Structures  
-- ✂️ String Manipulation (slicing, methods)  
-- ⚡ List Comprehensions  
+## **Week 2 – Control Flow 🔄**
+
+* 🔍 Conditional Statements: `if`, `elif`, `else`
+* 🗂 Nested Conditions
+* 🔄 Loops: `for` & `while`
+* ⛔ `break`, 🔁 `continue`, 🕳 `pass`
+* 🏗 Loop Patterns (stars, numbers, tables, etc.)
 
 ---
 
-### **Week 4 – Functions, Files & Error Handling 🛠**
-- 🏷 Defining and Calling Functions  
-- 🎯 Parameters & Return Values  
-- 🗝 Default & Keyword Arguments  
-- 📂 File Handling: Reading/Writing Text Files  
-- 🚫 Basic Error Handling (`try`, `except`)  
-- 🖥 Mini Project: Simple Console Application  
+## **Week 3 – Strings & Lists 📚**
+
+* 🔢 Numbers: Built-in Functions
+* 🧵 Strings: Introduction & Iteration
+* 🛠 String Operators & Built-in Functions
+* ✂ String Project (mini practice task)
+* 📋 Lists: Introduction, Iteration & Operations
 
 ---
+
+## **Week 4 – Lists, Sets & Tuples 📦**
+
+* 🛠 List Built-in Functions
+* 🏗 2D & 3D Lists
+* 📌 List Project (mini problem-solving task)
+* ⚡ List Comprehension
+* 🔗 Sets: Introduction & Operations
+* 🧩 Set Project (applications of sets)
+* 🧮 Bitwise Operators
+* 🎯 Tuples: Introduction
+
+---
+
+## **Week 5 – Dictionary & Functions 📖**
+
+* 🎯 Tuple Built-in Functions
+* 📖 Dictionary: Introduction, Iteration & Built-in Functions
+* ⚡ Dictionary Comprehension
+* 📌 Dictionary Project (real-world task)
+* 🛠 Functions: Introduction & Types (built-in, user-defined)
+* 🌍 Scope of Variables in Functions
+* ✅ Final Practice & Wrap-Up
+
+---
+
+💡 By the end of this journey, you’ll be confident in Python basics and ready to explore advanced concepts 🚀
 
 ## 🎯 Goals of This Journey 🏆  
 
@@ -116,4 +142,4 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 | 22 | Tue, Sep 23, 2025 | Dictionary: Iteration and built-in functions | [Watch](https://www.facebook.com/share/v/1FYMAG4R1q/) | Muhammad Hamza | [Dictionary.py]() | [Slides]() | |
 | 23 | Wed, Sep 24, 2025 | Dictionary: Comprehension and Practice | [Watch](https://www.facebook.com/share/v/1BNkabCqvE/) | Muhammad Hamza | [Dictionary.py](https://colab.research.google.com/drive/11wo_8L8cSjnUG2BgyTbSf0B_45Nb_vPc?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1_t697TfSMR8dSmhh5GdtjUo3o93z5QAt/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | |
 | 24 | Thur, Sep 25, 2025 | Function: introduction and types | [Watch]() | Muhammad Hamza | [Function.py]() | [Slides]() | [Assignment6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |
-| 25 | Fri, Sep 26, 2025 | Function: Global and Local Variable | [Watch]() | Muhammad Hamza | [Function.py]() | [Slides]() | [Assignment6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |
+| 25 | Fri, Sep 26, 2025 | Function: Scope of Variable | [Watch]() | Muhammad Hamza | [Function.py]() | [Slides]() | [Assignment6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |
