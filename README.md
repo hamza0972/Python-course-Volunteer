@@ -152,13 +152,13 @@ Here are the practice assignments to strengthen your understanding after each ma
 Each assignment contains multiple problems 🧠 with increasing difficulty.
 
 | 📌 Assignment | 📚 Topic                                                      | 🔗 Problems                                                                                                          | ⏰ Deadline | 📂 Solution File |
-| ------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- |
-| 1️⃣           | Input/Output, Variables, Data Types, Type Casting & Operators | [Assignment 1](https://docs.google.com/spreadsheets/d/10q6zmjrT4s1PwYCrRiW1EOD8AX1nNK7DRN9cBwPw7Lg/edit?usp=sharing) |       |             |
-| 2️⃣           | Control Flow                                                  | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) |        |                      |
-| 3️⃣           | Loops (`for`, `while`)                                        | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         |                    |
-| 4️⃣           | Strings                                                       | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) |               |                     |
-| 5️⃣           | Lists                                                         | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              |                      |
-| 6️⃣           | Tuples, Sets, Dictionaries & Functions                        | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                |                     |
+| ------------- | -------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- |
+| 1 | Input/Output, Variables, Data Types, Type Casting & Operators | [Assignment 1](https://docs.google.com/spreadsheets/d/10q6zmjrT4s1PwYCrRiW1EOD8AX1nNK7DRN9cBwPw7Lg/edit?usp=sharing) |       |             |
+| 2 | Control Flow                                                  | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) |        |                      |
+| 3 | Loops (`for`, `while`)                                        | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         |                    |
+| 4 | Strings                                                       | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) |               |                     |
+| 5 | Lists                                                         | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              |                      |
+| 6 | Tuples, Sets, Dictionaries & Functions                        | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                |                     |
 
 💡 *Tip: Try solving assignments on your own first. Only check the solutions once you’ve given your best shot!*
 
