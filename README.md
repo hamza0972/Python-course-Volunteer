@@ -158,7 +158,7 @@ Each assignment contains multiple problems 🧠 with increasing difficulty.
 | 3 | Loops | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         |             |
 | 4 | Strings | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) |          |     |
 | 5 | Lists | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              |        |
-| 6 | Tuples, Sets, Dictionaries & Functions | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                |                     |
+| 6 | Tuples, Sets, Dictionaries & Functions | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                | [Solution6](https://colab.research.google.com/drive/1ZMY7j6lEoa7Bez6M20NHV4MtPjBAfeuc?usp=sharing) |
 
 💡 *Tip: Try solving assignments on your own first. Only check the solutions once you’ve given your best shot!*
 
