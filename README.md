@@ -142,7 +142,7 @@ Your support motivates me to create more free beginner-friendly resources 🚀
 | 22 | Tue, Sep 23, 2025 | Dictionary: Iteration and built-in functions | [Watch](https://www.facebook.com/share/v/1FYMAG4R1q/) | Muhammad Hamza | [Dictionary.py](https://colab.research.google.com/drive/12_bOkSHn3RFL3OLYnKBsAxdfCsc2enni?usp=sharing) | [Slides]() |
 | 23 | Wed, Sep 24, 2025 | Dictionary: Comprehension and Practice | [Watch](https://www.facebook.com/share/v/1BNkabCqvE/) | Muhammad Hamza | [Dictionary.py](https://colab.research.google.com/drive/11wo_8L8cSjnUG2BgyTbSf0B_45Nb_vPc?usp=sharing) | [Slides](https://docs.google.com/presentation/d/1_t697TfSMR8dSmhh5GdtjUo3o93z5QAt/edit?usp=sharing&ouid=104744819075880154026&rtpof=true&sd=true) | 
 | 24 | Thur, Sep 25, 2025 | Function: introduction and types | [Watch](https://www.facebook.com/share/v/16PTT485MC/) | Muhammad Hamza | [Function.py]() | [Slides]() | 
-| 25 | Fri, Sep 26, 2025 | Function: Scope of Variable | [Watch](https://www.facebook.com/share/v/19ty4rgEQj/) | Muhammad Hamza | [Function.py]() | [Slides]() |
+| 25 | Fri, Sep 26, 2025 | Function: Scope of Variable | [Watch](https://www.facebook.com/share/v/19ty4rgEQj/) | Muhammad Hamza | [Function.py](https://colab.research.google.com/drive/1AqTEOyPao5pfEH7qraMwl1O3hfSU9f6E?usp=sharing) | [Slides]() |
 
 ---
 
