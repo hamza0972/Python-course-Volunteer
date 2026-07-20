@@ -154,11 +154,11 @@ Each assignment contains multiple problems 🧠 with increasing difficulty.
 | 📌 Assignment | 📚 Topic | 🔗 Problems | ⏰ Deadline | 📂 Solution File |
 | ------------- | ------------------ | --------------- | ---------- | ---------------- |
 | 1 | Input/Output, Variables, Data Types, Type Casting & Operators | [Assignment 1](https://docs.google.com/spreadsheets/d/10q6zmjrT4s1PwYCrRiW1EOD8AX1nNK7DRN9cBwPw7Lg/edit?usp=sharing) | August 31, 2025. 12:00 PM | [Solution1](https://colab.research.google.com/drive/1Rzlhn7RkNygzi8DmUk5RLv_ttU5fl3qg?usp=sharing) |
-| 2 | Control Flow | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) |        | [Solution2](https://colab.research.google.com/drive/1FbNd7ojA_tMX7qD35hvncwfgtEzbIJEc?usp=sharing) |
-| 3 | Loops | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) |         | [Solution3](https://colab.research.google.com/drive/1FzyEdX4930_FIGkCfROKWvS1Z8_7HfrN?usp=sharing) |
-| 4 | Strings | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) | | [Solution4](https://colab.research.google.com/drive/19TopS1GFHydDeR37X0ghMml6fCa4P-jg?usp=sharing) |
-| 5 | Lists | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) |              | [Solution5](https://colab.research.google.com/drive/1PrkNpU-UeOurFBa1bs2ZKDduFCD_AsUF?usp=sharing) |
-| 6 | Tuples, Sets, Dictionaries & Functions | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) |                | [Solution6](https://colab.research.google.com/drive/1ZMY7j6lEoa7Bez6M20NHV4MtPjBAfeuc?usp=sharing) |
+| 2 | Control Flow | [Assignment 2](https://docs.google.com/spreadsheets/d/1h2Z1otjp_U9OpjDL1oT0Jg-IRDpDnX8K5Lrlb9V4_os/edit?usp=sharing) | September 03, 2025. 11:59 PM | [Solution2](https://colab.research.google.com/drive/1FbNd7ojA_tMX7qD35hvncwfgtEzbIJEc?usp=sharing) |
+| 3 | Loops | [Assignment 3](https://docs.google.com/spreadsheets/d/1t4IUG6BNOgrfMvFxWR_fJftRs4gHlf9S9gqK4hClSH8/edit?usp=sharing) | September 07, 2025. 11:59 PM | [Solution3](https://colab.research.google.com/drive/1FzyEdX4930_FIGkCfROKWvS1Z8_7HfrN?usp=sharing) |
+| 4 | Strings | [Assignment 4](https://docs.google.com/spreadsheets/d/1_jKIWNHFZtguiiHkjvhnMhR-dceef4yzzBcq0IflysY/edit?usp=sharing) | September 19, 2025. 11:59 AM | [Solution4](https://colab.research.google.com/drive/19TopS1GFHydDeR37X0ghMml6fCa4P-jg?usp=sharing) |
+| 5 | Lists | [Assignment 5](https://docs.google.com/spreadsheets/d/1AHTQMaQZb89AHEb8sejqeaZUtiQ1oyFbD8tQJoNTba0/edit?usp=sharing) | September 19, 2025. 11:59 AM  | [Solution5](https://colab.research.google.com/drive/1PrkNpU-UeOurFBa1bs2ZKDduFCD_AsUF?usp=sharing) |
+| 6 | Tuples, Sets, Dictionaries & Functions | [Assignment 6](https://docs.google.com/spreadsheets/d/1DB5jFPhxF4O7Kx_g85PFqtkVRa5zpqFEAlM3C9h5D5g/edit?usp=sharing) | September 27, 2025. 11:59 PM | [Solution6](https://colab.research.google.com/drive/1ZMY7j6lEoa7Bez6M20NHV4MtPjBAfeuc?usp=sharing) |
 
 💡 *Tip: Try solving assignments on your own first. Only check the solutions once you’ve given your best shot!*
 
